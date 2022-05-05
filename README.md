@@ -9,6 +9,8 @@
 
 ## tampilan semua data tabel
 
+![image](https://user-images.githubusercontent.com/91056905/166878896-e7085f82-6547-4e6f-9ca8-b94d7099d68c.png)
+
 
 ## tampilan notifikasi keberhasilan input
 
